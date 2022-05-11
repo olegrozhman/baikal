@@ -1,1 +1,1 @@
-# baikal
+bot: python bot.py
